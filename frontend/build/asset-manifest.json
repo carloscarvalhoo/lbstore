@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.030b97df.css",
+    "main.js": "/static/js/main.c9cc0038.js",
+    "static/media/image2.png": "/static/media/image2.9fa1a8bd699f46df9f84.png",
+    "static/media/image4.png": "/static/media/image4.ad64e12462bb6faef78d.png",
+    "static/media/image1.png": "/static/media/image1.7ee52291a8811519e77a.png",
+    "static/media/image3.png": "/static/media/image3.fa57a196ea1b7c9bfb2f.png",
+    "static/media/heroSection1.png": "/static/media/heroSection1.84c92f3c1578f1fece53.png",
+    "static/media/heroSection3.png": "/static/media/heroSection3.84c92f3c1578f1fece53.png",
+    "static/media/heroSection2.png": "/static/media/heroSection2.ee6b5c51fbd30e34d48c.png",
+    "static/media/whatsapp-fill.svg": "/static/media/whatsapp-fill.7ec3ae2f382beebb45fb129c82e6cd64.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram.svg": "/static/media/instagram.328e233fdff559df84f31053ff54a270.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.bcab769d89393ea8e837aa1ef3250447.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.0a6d989971c05e6fcb11563bb598c162.svg",
+    "main.030b97df.css.map": "/static/css/main.030b97df.css.map",
+    "main.c9cc0038.js.map": "/static/js/main.c9cc0038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030b97df.css",
+    "static/js/main.c9cc0038.js"
+  ]
+}
